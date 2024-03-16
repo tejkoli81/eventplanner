@@ -1,0 +1,113 @@
+.btn {
+    background: maroon;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: white;
+    color: maroon;
+}
+
+.admin {
+    background: lightblue;
+}
+
+.text {
+    border: none;
+    font-size: 10pt;
+    padding: 10px;
+}
+
+.link {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 10pt;
+}
+
+.link:hover {
+    background: black;
+    color: white;
+}
+
+.footer {
+    background: none;
+    width: 100%;
+    text-align: right;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    color: black;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.header {
+    background: none;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    color: black;
+    font-size: 12pt;
+    font-weight: bold;
+    background: white;
+}
+
+.menu {
+    text-decoration: none;
+    padding: 10px 50px 10px 50px;
+    color: black;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.menu:hover {
+    background: white;
+    color: black;
+}
+
+.op {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background: maroon;
+    color: white;
+}
+
+.op:hover {
+    background: white;
+    color: black;
+}
+
+.menu1 {
+    text-decoration: none;
+    font-size: 12pt;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+}
+
+.menu1:hover {
+    color: red;
+}
+
+.opr {
+    text-decoration: none;
+    padding: 10px;
+    background: red;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.opr:hover {
+    background: black;
+}
