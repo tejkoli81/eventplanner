@@ -1,1 +1,3 @@
 # eventplanner
+
+The event receiver is a web  application which helps to organize successful events for users. This application provides an easy way to plan their special events. The user can add all the details of the event and can get the service. The user can select the type of event, type of food to be served, type of decoration and estimated budget. All the details given by users will be verified by admin. Admin will add all the details of the receiver based on the requirement of the user and send the user’s event details to the receiver. The receiver will verify and send his response with a confirmation mail. The user needs to complete the payment process to confirm the order.
